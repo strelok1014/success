@@ -12,6 +12,7 @@ a {
 }
 
 .image {
+    width: 256px;
 }
 .title {
     font-weight: 800;
